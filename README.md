@@ -18,6 +18,4 @@ Nễu có bất kỳ thắc măc nào, vui lòng liên hệ chúng tôi qua đ�
 
 ## Credits
 
-The idea and approach was adapted from [tty2gif](https://data.textstudio.com/output/sample/animated/9/5/8/4/code-3-14859.gif)
-
 ![](https://data.textstudio.com/output/sample/animated/9/5/8/4/code-3-14859.gif)

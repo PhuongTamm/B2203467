@@ -16,6 +16,4 @@ Chúng tôi hoan nghênh mọi đóng góp cho dự án
 # 💻Liên hệ
 Nễu có bất kỳ thắc măc nào, vui lòng liên hệ chúng tôi qua địa chỉ email tamb2203467@student.ctu.edu.vn
 
-## Credits
-
 ![](https://data.textstudio.com/output/sample/animated/9/5/8/4/code-3-14859.gif)

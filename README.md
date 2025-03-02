@@ -20,4 +20,4 @@ Nễu có bất kỳ thắc măc nào, vui lòng liên hệ chúng tôi qua đ�
 
 The idea and approach was adapted from [tty2gif](https://bitbucket.org/antocuni/tty2gif)
 
-![]([http://i.imgur.com/9et8daN.jpg](https://data.textstudio.com/output/sample/animated/9/5/8/4/code-3-14859.gif))
+![]((https://data.textstudio.com/output/sample/animated/9/5/8/4/code-3-14859.gif))
